@@ -6,5 +6,5 @@
   - [let](https://github.com/ErAnirudha/TypeScript/blob/main/let_keyword.ts)
   - [const]
   - 
- - **2.function** (initialization,declaration,Re-declaration)
+ - **2.function** (initialization,declaration,Re-declaration)(https://github.com/ErAnirudha/TypeScript/blob/main/sample_function.ts)
 
