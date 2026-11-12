@@ -2,5 +2,5 @@
 TypeScript basic Programs
 - [Keywords]
   - [var]
-  - [let]
+  - [let](https://github.com/ErAnirudha/TypeScript/blob/main/let_keyword.ts)
   - [const]
