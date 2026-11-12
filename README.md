@@ -5,5 +5,6 @@
   - [var](https://github.com/ErAnirudha/TypeScript/blob/main/var_keyword.ts)
   - [let](https://github.com/ErAnirudha/TypeScript/blob/main/let_keyword.ts)
   - [const]
- 
+  - 
+ - **1.function** (initialization,declaration,Re-declaration)
 
