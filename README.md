@@ -7,7 +7,8 @@
   - [const](https://github.com/ErAnirudha/TypeScript/blob/main/const.ts)
   - 
 - **2.function** (initialization,declaration,Re-declaration)
-- [Naming function or normal Function]
+  - [Naming function or normal Function]
+    
 - [Naming function or normal Function with parameters]
   - [Ananomous Function]
   - [Lambda Expressions]
