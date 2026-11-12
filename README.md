@@ -8,7 +8,7 @@
   - 
 - **2.function** (initialization,declaration,Re-declaration)
 - [Naming function or normal Function]
-  - [Naming function or normal Function with parameters]
+- [Naming function or normal Function with parameters]
   - [Ananomous Function]
   - [Lambda Expressions]
   - [sample function program](https://github.com/ErAnirudha/TypeScript/blob/main/sample_function.ts)
